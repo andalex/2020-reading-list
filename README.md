@@ -32,10 +32,6 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Front-end architecture case studies from large companies](https://github.com/andrew--r/frontend-case-studies#english)
 
-* [SVG generated faux-code graphic from gist or snippet](http://knutsynstad.com/fauxcode/)
-
-* [Library for animating image backgrounds in websites. Written with three.js and uses WebGL](https://aeroheim.github.io/midori/)
-
 
 ## Documentation
 
@@ -53,6 +49,15 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Learn you Haskell](http://learnyouahaskell.com/chapters)
 
+* [Rust-lang rustlings](https://github.com/rust-lang/rustlings/)
+
+
 ## Web UI:
 * [A-Z of AI](https://atozofai.withgoogle.com/)
+
+* [Carbon code screenshot generator](https://carbon.now.sh/)
+
+* [SVG generated faux-code graphic from gist or snippet](http://knutsynstad.com/fauxcode/)
+
+* [Library for animating image backgrounds in websites. Written with three.js and uses WebGL](https://aeroheim.github.io/midori/)
 
