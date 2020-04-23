@@ -32,6 +32,9 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Front-end architecture case studies from large companies](https://github.com/andrew--r/frontend-case-studies#english)
 
+* [Writing an Emulator in JavaScript](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
+
+* [Strategies for migrating to TypeScript](https://2ality.com/2020/04/migrating-to-typescript.html)
 
 ## Documentation
 
