@@ -65,3 +65,5 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [Library for animating image backgrounds in websites. Written with three.js and uses WebGL](https://aeroheim.github.io/midori/)
 
 * [React to VanillaJS compiler](https://mohebifar.github.io/vidact/)
+
+* [Test common CSS easings](https://easings.co/)
