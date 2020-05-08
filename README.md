@@ -54,6 +54,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Rust-lang rustlings](https://github.com/rust-lang/rustlings/)
 
+* [SOC 2 Compliance guide for git](https://try.datree.io/soc2-compliance-git-guide)
+
 
 ## Web UI:
 * [A-Z of AI](https://atozofai.withgoogle.com/)
@@ -67,3 +69,7 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [React to VanillaJS compiler](https://mohebifar.github.io/vidact/)
 
 * [Test common CSS easings](https://easings.co/)
+
+* [Chat API & SDKs for Custom Messaging Apps](https://getstream.io/)
+
+*[Turn string to slug](https://github.com/sindresorhus/slugify)
