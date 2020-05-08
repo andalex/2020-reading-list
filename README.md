@@ -36,6 +36,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Strategies for migrating to TypeScript](https://2ality.com/2020/04/migrating-to-typescript.html)
 
+* [Metaphors in man pages](https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/)
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
