@@ -40,6 +40,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Micro-Typography - space and kern punctuation](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/)
 
+* [Finding Comments in Source Code Using Regular Expressions](https://blog.ostermiller.org/finding-comments-in-source-code-using-regular-expressions/)
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
