@@ -42,6 +42,10 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Finding Comments in Source Code Using Regular Expressions](https://blog.ostermiller.org/finding-comments-in-source-code-using-regular-expressions/)
 
+* [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
+
+* [Practical Redux, Part 1: Redux-ORM Basics](https://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/)
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
@@ -63,7 +67,7 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [SOC 2 Compliance guide for git](https://try.datree.io/soc2-compliance-git-guide)
 
 
-## Web UI:
+## JavaScript & UI:
 * [A-Z of AI](https://atozofai.withgoogle.com/)
 
 * [Carbon code screenshot generator](https://carbon.now.sh/)
@@ -78,4 +82,6 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Chat API & SDKs for Custom Messaging Apps](https://getstream.io/)
 
-*[Turn string to slug](https://github.com/sindresorhus/slugify)
+* [Turn string to slug](https://github.com/sindresorhus/slugify)
+
+* [Ramda - A practical functional library for JavaScript programmers.](https://github.com/ramda/ramda)
