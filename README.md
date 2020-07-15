@@ -52,6 +52,7 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Zen of python](https://www.python.org/dev/peps/pep-0020/)
 
+* [tc39 proposal-temporal](https://tc39.es/proposal-temporal/docs/index.html)
 
 ## Videos:
 
