@@ -67,6 +67,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [SOC 2 Compliance guide for git](https://try.datree.io/soc2-compliance-git-guide)
 
+* [Poignant Guide to Ruby](https://poignant.guide/book/)
+
 
 ## JavaScript & UI:
 * [A-Z of AI](https://atozofai.withgoogle.com/)
