@@ -46,6 +46,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Practical Redux, Part 1: Redux-ORM Basics](https://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/)
 
+* [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa/)
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
