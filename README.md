@@ -48,6 +48,8 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa/)
 
+* [Metaprogramming with Proxies](https://exploringjs.com/deep-js/ch_proxies.html)
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
