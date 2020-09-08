@@ -92,3 +92,5 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [Turn string to slug](https://github.com/sindresorhus/slugify)
 
 * [Ramda - A practical functional library for JavaScript programmers.](https://github.com/ramda/ramda)
+
+* [serviceworke.rs - The Service Worker Cookbook](https://serviceworke.rs/)
