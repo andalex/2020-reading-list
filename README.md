@@ -94,3 +94,5 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [Ramda - A practical functional library for JavaScript programmers.](https://github.com/ramda/ramda)
 
 * [serviceworke.rs - The Service Worker Cookbook](https://serviceworke.rs/)
+
+* [Fira Code: free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
