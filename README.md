@@ -52,6 +52,11 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [Writing a Lisp, the series](https://bernsteinbear.com/blog/lisp/)
 
+
+* [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/)
+
+
+
 ## Documentation
 
 * [Git worktree docs](https://git-scm.com/docs/git-worktree)
@@ -98,3 +103,5 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [serviceworke.rs - The Service Worker Cookbook](https://serviceworke.rs/)
 
 * [Fira Code: free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+
+* [State of JavaScript 2020](https://stateofjs.com/)
