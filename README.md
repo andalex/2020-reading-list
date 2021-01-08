@@ -105,3 +105,5 @@ Articles or other material I've found interesting this year (not necessarily rec
 * [Fira Code: free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 
 * [State of JavaScript 2020](https://stateofjs.com/)
+
+* [wtfjs] https://github.com/denysdovhan/wtfjs#readme
