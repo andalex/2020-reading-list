@@ -106,4 +106,4 @@ Articles or other material I've found interesting this year (not necessarily rec
 
 * [State of JavaScript 2020](https://stateofjs.com/)
 
-* [wtfjs] https://github.com/denysdovhan/wtfjs#readme
+* [wtfjs](https://github.com/denysdovhan/wtfjs#readme)
